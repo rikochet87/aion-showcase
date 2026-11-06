@@ -94,12 +94,12 @@ summarises them into the process memory and sends due follow-ups.
 
 ## About Kairós
 
-Kairós is a coaching practice founded by Matías Rosello and Noelia Ferreyra. Aión was built by Matías, who is a certified ontological coach (AACOP) with a focus on neurocoaching — so the tool is written from inside the discipline, not from outside it.
+Kairós is a coaching practice founded by Matías Roselló and Noelia Ferreyra. Aión was built by Matías, who is a certified ontological coach (AACOP) with a focus on neurocoaching — so the tool is written from inside the discipline, not from outside it.
 
 ---
 
 <div align="center">
 
-**Matías Rosello** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
+**Matías Roselló** · [GitHub](https://github.com/rikochet87) · rosellomatias87@gmail.com
 
 </div>
